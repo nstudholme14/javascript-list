@@ -12,13 +12,14 @@ body {
 
 h1 {
   margin: 20px;
+  color: #7d82b0;
 }
 
 #app {
   box-shadow: 0 0 5px #684F91;
   font-size: 35px;
-  color: #080D3B;
-  background-color: white;
+  color: white;
+  background-color: black;
 }
 
 form {
@@ -100,6 +101,7 @@ form {
 
 .item.completed {
   color: #C3C3C4;
+  text-decoration: underline;
 }
 
 #templates {
